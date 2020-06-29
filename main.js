@@ -1,9 +1,31 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+function addMeToEnd(arr) {
+  arr.push('Colin')
+}
 
+function addMeToStart(arr) {
+  arr.unshift('Colin')
+}
 
+function changeLast(arr) {
+  arr.pop();
+  arr.push(5);
+}
 
+function changeAllValuesTo(arr, val) {
+  let val = 15
+
+}
+
+function oddOrEven() {
+
+}
+
+function changeNextThreeToValue() {
+
+}
 
 
 /*********************************
