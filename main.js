@@ -15,12 +15,12 @@ function changeLast(arr) {
 }
 
 function changeAllValuesTo(arr, val) {
-  let val = 15
-
+  arr.slice(arr)
+  arr.push(15)
 }
 
 function oddOrEven() {
-
+  
 }
 
 function changeNextThreeToValue() {
